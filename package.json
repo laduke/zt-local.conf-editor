@@ -1,5 +1,9 @@
 {
+  "name": "zt-local.conf-editor",
+  "version": "0.1.0",
+  "type": "module",
   "dependencies": {
-    "@typespec/compiler": "^0.47.1"
-  }
+    "@typespec/compiler": "latest"
+  },
+  "private": true
 }
