@@ -1,6 +1,7 @@
 # a web based editor for ZeroTierOne's local.conf 
 
 This doesn't work because typspec emits current json-schema and json-editor supports only old json-schema.
+So I give up for now.
 
 ## Motivation
 It's easy to make mistakes in your local.conf. Many users aren't familiar with JSON at all.
