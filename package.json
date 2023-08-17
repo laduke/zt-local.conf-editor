@@ -6,6 +6,7 @@
   "version": "0.1.0",
   "type": "module",
   "dependencies": {
+    "@json-editor/json-editor": "^2.10.1",
     "@typespec/compiler": "latest",
     "@typespec/json-schema": "^0.47.0"
   },
