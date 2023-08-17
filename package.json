@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "compile": "tsp compile ."
+    "compile": "tsp compile .",
+    "start": "live-server index.html"
   },
   "name": "zt-local.conf-editor",
   "version": "0.1.0",
@@ -10,5 +11,8 @@
     "@typespec/compiler": "latest",
     "@typespec/json-schema": "^0.47.0"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
 }
