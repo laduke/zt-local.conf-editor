@@ -1,7 +1,7 @@
 options:
   '@typespec/json-schema':
     file-type: "json"
-    bundleId: "spec.json"
+    bundleId: config
 
 emit:
   - "@typespec/json-schema"
