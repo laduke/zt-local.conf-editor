@@ -1,9 +1,13 @@
 {
+  "scripts": {
+    "compile": "tsp compile ."
+  },
   "name": "zt-local.conf-editor",
   "version": "0.1.0",
   "type": "module",
   "dependencies": {
-    "@typespec/compiler": "latest"
+    "@typespec/compiler": "latest",
+    "@typespec/json-schema": "^0.47.0"
   },
   "private": true
 }

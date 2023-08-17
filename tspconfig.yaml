@@ -1,0 +1,7 @@
+options:
+  '@typespec/json-schema':
+    file-type: "json"
+    bundleId: "spec.json"
+
+emit:
+  - "@typespec/json-schema"
